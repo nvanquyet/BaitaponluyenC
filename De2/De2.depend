@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1649925222 source:f:\ltrinh57\devc_day5\bài 1\de2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1649927326 source:f:\ltrinh57\devc_day5\bài 1\de2\solanxuathien.c
+	<stdio.h>
+	<stdlib.h>
+
+1649927326 source:f:\ltrinh57\devc_day5\bài 1\de2\chinhphuong.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

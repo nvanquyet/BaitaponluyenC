@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1649784248 source:f:\ltrinh57\devc_day5\bài 1\de8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1649784648 source:f:\ltrinh57\devc_day5\bài 1\de8\cau2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1649785623 source:f:\ltrinh57\devc_day5\bài 1\de8\dayso.c
+	<stdio.h>
+	<stdlib.h>
+
